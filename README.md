@@ -1,3 +1,8 @@
+Why the Fork?
+=============
+
+This repo was forked from cameronbwhite/Flask-CAS. There is a necessary bugfix in the Github repo that isn't available using pip install Flask-CAS. Creating a long-term dependency on a live github repo seems ill-advised, so this fork presents a long-lived copy of the repo that can serve as a stable source to install from 
+
 Flask-CAS
 =========
 
